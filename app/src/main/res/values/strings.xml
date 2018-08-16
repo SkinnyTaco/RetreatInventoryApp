@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">RetreatInventoryApp</string>
+    <string name="app_name">Stay Stocked</string>
+
+    // Tab titles
+    <string name="bfuller_tab_name">B Fuller</string>
+    <string name="campos_tab_name">Campos</string>
+    <string name="petes_tab_name">Pete\'s</string>
+    <string name="unknown_vendor_tab_name">Unknown Vendor</string>
 </resources>

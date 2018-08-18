@@ -1,10 +1,15 @@
-package com.maurdan.flaco.retreatinventoryapp;
+package com.maurdan.flaco.retreatinventoryapp.Adapters;
 
 import android.content.Context;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+
+import com.maurdan.flaco.retreatinventoryapp.Fragments.BFullerFragment;
+import com.maurdan.flaco.retreatinventoryapp.Fragments.CamposFragment;
+import com.maurdan.flaco.retreatinventoryapp.Fragments.PetesFragment;
+import com.maurdan.flaco.retreatinventoryapp.R;
 
 public class ProductPagerAdapter extends FragmentPagerAdapter {
 

@@ -1,4 +1,4 @@
-package com.maurdan.flaco.retreatinventoryapp;
+package com.maurdan.flaco.retreatinventoryapp.Fragments;
 
 
 import android.os.Bundle;
@@ -8,6 +8,8 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.maurdan.flaco.retreatinventoryapp.R;
 
 public class BFullerFragment extends Fragment {
 

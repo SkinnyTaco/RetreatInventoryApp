@@ -30,11 +30,14 @@ public class ProductContract {
         // Type int
         public static final String _ID = BaseColumns._ID;
 
+        // Product name
+        public static final String COLUMN_PRODUCT_NAME = "name";
+
         // Product vendor
         public static final String COLUMN_PRODUCT_VENDOR = "vendor";
 
         // Unit (eg cases, gallons, lbs)
-        public static final String COLUMN_PRODUCT_PRICE = "unit";
+        public static final String COLUMN_PRODUCT_UNIT = "unit";
 
         // Product Par. How many should be present in the shop.
         public static final String COLUMN_PRODUCT_PAR = "par";
